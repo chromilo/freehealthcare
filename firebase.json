@@ -1,6 +1,5 @@
 {
   "hosting": {
-    "site": "nwhacks2022-4c633",
     "public": "public",
     "ignore": [
       "firebase.json",
